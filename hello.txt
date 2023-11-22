@@ -1,1 +1,13 @@
-Hello GitHub!
+Hi, there this is the updated text.
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
